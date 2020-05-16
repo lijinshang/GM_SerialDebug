@@ -1,5 +1,5 @@
 # GM_SerialDebug
-                      GM SerialDebug串口调试软件
+                      GM SerialDebug串口调试软件 by 李锦上
   * 功能简介 
   * =======================================
   * 1.串口基本功能 
@@ -66,7 +66,9 @@
   * Byte12  ：AA 帧尾 
  
   * 滑块通信协议：
-  * 帧格式例：A5 5A 23 C0 A4 70 45 41 B8 1E 63 42  00 00 00 00 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00 00 00 00 00 AA  
+  * 帧格式例：A5 5A 23 C0 A4 70 45 41 B8 1E 63 42     
+  *           00 00 00 00 00 00 00 00 00 00 00 00     
+  *           00 00 00 00 00 00 00 00 00 00 00 00 AA  
   * Byte0-1 ：A5 5A 帧头 
   * Byte2   ：23 本帧包含的字节数，除了起始字节外 
   * Byte3   ：C0 功能码 参数调试-滑块 
@@ -91,6 +93,7 @@
   * 软件编写匆忙难免有bug，还请不吝指正 
   * 作者邮箱：lijinshang@126.com 
   * =======================================
+
   
   ![image](https://github.com/lijinshang/GM_SerialDebug/blob/master/Images/GM_SerialDebug-1.png)
   ![image](https://github.com/lijinshang/GM_SerialDebug/blob/master/Images/GM_SerialDebug-2.png)
