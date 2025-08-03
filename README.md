@@ -104,7 +104,7 @@
  
 
   
-  ![image](https://github.com/lijinshang/GM_SerialDebug/blob/master/Images/GM_SerialDebug-1.png)
+  ![image](https://github.com/lijinshang/GM_SerialDebug/blob/master/Images/GM_CommsDebugV1.2.0.0.png)
   ![image](https://github.com/lijinshang/GM_SerialDebug/blob/master/Images/GM_SerialDebug-2.png)
   ![image](https://github.com/lijinshang/GM_SerialDebug/blob/master/Images/GM_SerialDebug-3.png)
   ![image](https://github.com/lijinshang/GM_SerialDebug/blob/master/Images/GM_SerialDebug-4.png)
